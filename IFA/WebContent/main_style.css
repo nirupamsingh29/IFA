@@ -1,0 +1,170 @@
+body{
+	background-image:url('bgimg.jpg');
+	font-family: tahoma, Arial, "Times New Roman", Times, serif;
+	font-size: 1em;
+	margin: 10px;
+}
+
+#header{
+height:150px;
+width:400px;
+float:left;
+}
+
+#title{
+height:150px;
+width:550px;
+float:left;
+font-family:verdana;
+font-weight:bold;
+font-variant:small-caps;
+font-size:40px;
+color:#be2f05;
+}
+
+#panel{
+width:300px;
+float:right;
+height:600px;
+}
+
+#prevMatches{
+/*Border:2px solid black;
+*/margin-top:10px;
+float:left;
+width:425px;
+margin-left:70px;
+padding-left:20px;
+margin-right:10px;
+height:400px;
+}
+
+table{
+	border: 1px solid #2781ba;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3px;
+	margin-top: 30px;
+	border-collapse: collapse;
+	background-color: #eaf2d3;
+}
+
+th{
+	text-align: right;
+	margin: 3px 5px 3px 5px;
+	padding: 3px 5px 3px 5px;
+	background-color: #80ff00;
+}
+
+td{
+	text-align: right;
+	margin: 3px 5px 3px 5px;
+	padding: 13px 15px 13px 15px;
+	border:1px solid blue;
+
+}
+
+tr{
+	margin: 3px 5px 3px 5px;
+	padding: 3px 5px 3px 5px;
+	border:1px solid blue;
+}
+
+#tt table{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 3px;
+	margin-top: 30px;
+	border-collapse: collapse;
+}
+
+#tt td{
+	text-align: right;
+	margin: 3px 5px 3px 5px;
+	padding: 7px 9px 7px 9px;
+
+}
+
+#tt tr{
+	margin: 3px 5px 3px 5px;
+	padding: 3px 5px 3px 5px;
+}
+.tableheader{
+	background-color: #fff;
+	/*border-bottom: 2px solid #000;*/
+	padding: 0px 0px;
+	margin: 1px 4px 1px 4px;
+}
+
+.tablefooter{
+	/*background-color: #2781ba;
+	border-top: 2px solid #2781ba;*/
+	padding: 1px 2px 1px 2px;
+	margin: 1px 2px 1px 2px;
+}
+/*.div4{
+Border:2px solid black;
+margin-top:10px;
+float:left;
+width:225px;
+padding-left:20px;
+height:400px;
+}*/
+
+#nextMatches{
+/*Border:2px solid black;
+*/margin-top:10px;
+float:left;
+width:425px;
+padding-left:20px;
+height:400px;
+}
+
+#pane{
+width:300px;
+height:150px;
+}
+#teams{
+width:300px;
+height:410px;
+}
+.log{
+margin-left:100px;
+}
+#login{
+	float:right;
+	background-color: #800040;
+	color: #fff;
+	font-family: Calibri, Arial, "Times New Roman", sans-serif;
+	font-weight: bold;
+	font-size: 2em;
+	padding: 1px;
+	margin: 3px;
+	border-width: 0px;
+	border-color: #2781ba;
+	border-radius: 5px;
+}
+#teamName{
+	background-color: #2781ba;
+	color: #fff;
+	font-family: Calibri, Arial, "Times New Roman", sans-serif;
+	font-weight: bold;
+	font-size: 0.95em;
+	padding: 1px;
+	margin: 3px;
+	border-width: 0px;
+	border-color: #2781ba;
+	border-radius: 5px;
+}
+#players{
+	background-color: #000000;
+	color: #fff;
+	font-family: Calibri, Arial, "Times New Roman", sans-serif;
+	font-weight: bold;
+	font-size: 0.95em;
+	padding: 1px;
+	margin: 3px;
+	border-width: 0px;
+	border-color: #2781ba;
+	border-radius: 5px;
+}
